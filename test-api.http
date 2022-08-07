@@ -1,0 +1,11 @@
+###
+
+##########filter options
+###################?field=operator:value###for int
+GET http://localhost:1234/people?age=lt:45
+Content-Type: application/json
+
+#########sort options
+###########################?sort_by=field&sort_order=asc/desc
+GET http://localhost:1234/people?sort_by=age&sort_order=asc
+Content-Type: application/json
