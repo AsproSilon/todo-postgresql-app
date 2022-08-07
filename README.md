@@ -1,2 +1,3 @@
 # golang-postgresql-app
-App with realization postgresql, docker, postman and authorization.
+This is my first big project if i can to call it like that. I learned Sql, docker, postman and other services.
+Please, dont judge strictly, because i am even not juniour.
